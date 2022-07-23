@@ -11,32 +11,32 @@ Muhammad Atif Altaf
 
 - foodie.csv
 
-  -data Set
+  - data Set
   
   
 - foodie.ipynb
 
-  - Jypter notebook file(Program)
+   - Jypter notebook file(Program)
   
   
--foodie.dot
+- foodie.dot
 
-  -Decision Tree graph
+  - Decision Tree graph
 
 
--foodie.png
+- foodie.png
 
-  -Decision Tree graph PNG
+  - Decision Tree graph PNG
 
--foodie.svg
+- foodie.svg
 
--foodie.joblib
+- foodie.joblib
 
-  -Dump file of our trained model
+  - Dump file of our trained model
 
 ### Development Environment:
 
--My Decision Tree Learning program was developed in the VS Code.
+- My Decision Tree Learning program was developed in the VS Code.
 
 ### Discription:
 - Decision tree clasifier Machine learning algorithm use for classification.
